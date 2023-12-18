@@ -1,0 +1,28 @@
+{
+    "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ], 
+  "records": [
+    {
+      "number": 1,
+      "text": "kelly"
+    },
+    {
+      "number": 7,
+      "text": "bill"
+    },
+    {
+      "number": 3,
+      "text": "terry"
+    },
+    {
+      "number": 127,
+      "text": "hello"
+    }
+  ]
+}
