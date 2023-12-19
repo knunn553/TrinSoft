@@ -1,3 +1,5 @@
+Each coding question took approcimately 30 minutes each. As they are console application within Visual Studio, the end-user can simply run the application and follow the instructions on the screen.
+
 1. How is a stack different from a queue?
 In C#, both stacks and queue's are data structures. The main different between them is in how they handle elements. The stack manages elements through a LIFO methodology while the queue takes on FIFO.
 
